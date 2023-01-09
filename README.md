@@ -1,4 +1,5 @@
-# autoregressive-handwritten-digit-compression
+# Autoregressive Handwritten Digit Compression
+
 Compressing images of handwritten digits using an autoregressive model.
 
 Autoregressive models are statistical models which predict future data from past data. Most generally, they aim to approximate the distribution $p(x_n|x_1,\dots,x_{n-1})$ for some sample $x_1,\dots,x_n$. However using arbitrarily long contexts is usually impossible due to computational limitations. As such, most models operate on a fixed (or bounded) length context $x_{n-1-k},\dots,x_k$ where $k$ is the context (or history) length. Examples of autoregressive models include GPT3 and Facebook's Phrophet. Many autoregressive models are also generative models such that their predictions can be used recursively to sample from the approximate distribution $\hat p$.   
