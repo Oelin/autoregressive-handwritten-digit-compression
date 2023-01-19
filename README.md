@@ -1,6 +1,6 @@
-# Autoregressive MNIST
+# AMNIST
 
-Compressing images of handwritten digits using an autoregressive model.
+AMNIST (autoregressive MNIST) is a simple autoregressive model for compression MNIST handwritten digits. The model is mostly intended as an educational tool to demonstrate the close relationship between machine learning and data compression.
 
 <img src='./diagram.png'>
 
