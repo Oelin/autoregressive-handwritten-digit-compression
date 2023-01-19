@@ -1,6 +1,6 @@
 # AR MNIST
 
-AR MNIST (autoregressive MNIST) is a simple autoregressive model for compression MNIST handwritten digits. The model is mostly intended as an educational tool to demonstrate the close relationship between machine learning and data compression.
+AR MNIST (autoregressive MNIST) is a simple autoregressive model for compressing MNIST handwritten digits. The model is mostly intended as an educational tool to demonstrate the close relationship between machine learning and data compression.
 
 <img src='./diagram.png'>
 
