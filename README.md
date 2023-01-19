@@ -1,4 +1,4 @@
-# Autoregressive Handwritten Digit Compression
+# Autoregressive MNIST
 
 Compressing images of handwritten digits using an autoregressive model.
 
